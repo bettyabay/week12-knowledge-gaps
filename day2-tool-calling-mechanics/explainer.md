@@ -1,6 +1,6 @@
 # What a Model Actually Generates When It "Calls a Tool"
 
-*Written for Mistire. Published at [BLOG_URL].*
+*Written for Mistire. Published at [Medium](https://medium.com/@abay.betty.21/what-a-model-actually-generates-when-it-calls-a-tool-6c8c51efed73).*
 
 ---
 
@@ -73,4 +73,4 @@ The reason Python routing can outperform model-driven tool selection for determi
 
 ---
 
-*Sources in [sources.md](sources.md).*
+*Sources in [sources.md](sources.md). Thread: [X](https://x.com/carinobetty22/status/2052080516875080068?s=46).*

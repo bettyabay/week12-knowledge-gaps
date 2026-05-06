@@ -1,6 +1,6 @@
 # Tweet Thread — Day 2: Tool Calling at the Token Level
 
-*Published at [THREAD_URL]*
+*Published at [X](https://x.com/carinobetty22/status/2052080516875080068?s=46)*
 
 ---
 
@@ -69,4 +69,4 @@ Practical implication: if your routing decision is a deterministic rule (like `i
 
 Model-driven tool calls are the right architecture when the routing decision *itself* requires language understanding. Not before.
 
-Full writeup: [BLOG_URL]
+Full writeup: https://medium.com/@abay.betty.21/what-a-model-actually-generates-when-it-calls-a-tool-6c8c51efed73
