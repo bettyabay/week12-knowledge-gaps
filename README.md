@@ -23,16 +23,18 @@ week12-knowledge-gaps/
 | Day | Topic | Partner | My Role | Blog | Thread | Status |
 |-----|-------|---------|---------|------|--------|--------|
 | [Day 1](day1-inference-mechanics/) | Inference-time mechanics — Prefill vs. Decode | Kidane | Explainer | [Medium](https://medium.com/@abay.betty.21/prefill-vs-decode-where-your-inference-latency-actually-goes-a796c3495afa) | [X](https://x.com/carinobetty22/status/2051376092359832010) | ✅ |
-| Day 2 | TBD | TBD | TBD | — | — | ⏳ |
+| [Day 2](day2-tool-calling-mechanics/) | Tool calling mechanics — Token-level tool selection | Mistire | Explainer | [BLOG_URL] | [THREAD_URL] | ⏳ |
 | Day 3 | TBD | TBD | TBD | — | — | ⏳ |
 | Day 4 | TBD | TBD | TBD | — | — | ⏳ |
 | Day 5 | TBD | TBD | TBD | — | — | ⏳ |
 | Day 6 | TBD | TBD | TBD | — | — | ⏳ |
 | Day 7 | TBD | TBD | TBD | — | — | ⏳ |
 
-## Day 1 Key Insight
+## Key Insights
 
-For tasks with an output/prompt token ratio below 0.2, **prefill dominates latency**. Optimize by compressing prompts, not output length.
+**Day 1:** For tasks with an output/prompt token ratio below 0.2, **prefill dominates latency**. Optimize by compressing prompts, not output length.
+
+**Day 2:** A model "calling a tool" is just next-token prediction producing structured JSON or special-token-wrapped JSON — because fine-tuning made that the high-probability output in tool-relevant contexts. Python routing beats model-driven tool selection for deterministic rules.
 
 ## Roles
 
