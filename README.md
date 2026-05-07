@@ -24,7 +24,7 @@ week12-knowledge-gaps/
 |-----|-------|---------|---------|------|--------|--------|
 | [Day 1](day1-inference-mechanics/) | Inference-time mechanics — Prefill vs. Decode | Kidane | Explainer | [Medium](https://medium.com/@abay.betty.21/prefill-vs-decode-where-your-inference-latency-actually-goes-a796c3495afa) | [X](https://x.com/carinobetty22/status/2051376092359832010) | ✅ |
 | [Day 2](day2-tool-calling-mechanics/) | Tool calling mechanics — Token-level tool selection | Mistire | Explainer | [Medium](https://medium.com/@abay.betty.21/what-a-model-actually-generates-when-it-calls-a-tool-6c8c51efed73) | [X](https://x.com/carinobetty22/status/2052080516875080068?s=46) | ✅ |
-| Day 3 | TBD | TBD | TBD | — | — | ⏳ |
+| [Day 3](day3-simpo-memorization/) | Preference training generalization — SimPO memorization vs. genuine learning | [Partner] | Explainer | [Medium — pending] | [X — pending] | ⏳ |
 | Day 4 | TBD | TBD | TBD | — | — | ⏳ |
 | Day 5 | TBD | TBD | TBD | — | — | ⏳ |
 | Day 6 | TBD | TBD | TBD | — | — | ⏳ |
@@ -35,6 +35,8 @@ week12-knowledge-gaps/
 **Day 1:** For tasks with an output/prompt token ratio below 0.2, **prefill dominates latency**. Optimize by compressing prompts, not output length.
 
 **Day 2:** A model "calling a tool" is just next-token prediction producing structured JSON or special-token-wrapped JSON — because fine-tuning made that the high-probability output in tool-relevant contexts. Python routing beats model-driven tool selection for deterministic rules.
+
+**Day 3:** SimPO loss does not distinguish a model that learned a semantic rule from one that memorized vocabulary patterns — both reduce the loss equally. Paraphrase eval (same meaning, different words) is the highest-signal diagnostic for template-trained adapters. An accuracy drop >10 points on minimal paraphrase is a red flag for vocabulary memorization.
 
 ## Roles
 
