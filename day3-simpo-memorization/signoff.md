@@ -1,6 +1,6 @@
-# [Partner]'s Signoff — Day 3
+# Samuel Lachisa's Signoff — Day 3
 
-**Questioner:** [Partner]  
+**Questioner:** Samuel Lachisa  
 **Explainer:** Bethelhem  
 **Date:** 2026-05-07
 

@@ -1,7 +1,7 @@
 # Evening Call Summary — Day 3
 
 **Date:** 2026-05-07  
-**Questioner:** [Partner]  
+**Questioner:** Samuel Lachisa  
 **Explainer:** Bethelhem  
 **Format:** Stress-test of the explainer's answer
 

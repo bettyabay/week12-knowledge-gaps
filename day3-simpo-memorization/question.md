@@ -1,7 +1,7 @@
 # Day 3 — Research Question
 
 **Topic:** Preference training generalization — memorization vs. genuine learning  
-**Questioner:** [Partner]  
+**Questioner:** Samuel Lachisa  
 **Explainer:** Bethelhem  
 **Date:** 2026-05-07
 

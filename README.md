@@ -24,7 +24,7 @@ week12-knowledge-gaps/
 |-----|-------|---------|---------|------|--------|--------|
 | [Day 1](day1-inference-mechanics/) | Inference-time mechanics — Prefill vs. Decode | Kidane | Explainer | [Medium](https://medium.com/@abay.betty.21/prefill-vs-decode-where-your-inference-latency-actually-goes-a796c3495afa) | [X](https://x.com/carinobetty22/status/2051376092359832010) | ✅ |
 | [Day 2](day2-tool-calling-mechanics/) | Tool calling mechanics — Token-level tool selection | Mistire | Explainer | [Medium](https://medium.com/@abay.betty.21/what-a-model-actually-generates-when-it-calls-a-tool-6c8c51efed73) | [X](https://x.com/carinobetty22/status/2052080516875080068?s=46) | ✅ |
-| [Day 3](day3-simpo-memorization/) | Preference training generalization — SimPO memorization vs. genuine learning | [Partner] | Explainer | [Medium — pending] | [X — pending] | ⏳ |
+| [Day 3](day3-simpo-memorization/) | Preference training generalization — SimPO memorization vs. genuine learning | Samuel Lachisa | Explainer | [Medium](https://medium.com/@abay.betty.21/did-your-simpo-adapter-learn-the-rule-or-just-the-words-f0c138fa9487) | [X](https://x.com/carinobetty22/status/2052381056406343793?s=46) | ✅ |
 | Day 4 | TBD | TBD | TBD | — | — | ⏳ |
 | Day 5 | TBD | TBD | TBD | — | — | ⏳ |
 | Day 6 | TBD | TBD | TBD | — | — | ⏳ |

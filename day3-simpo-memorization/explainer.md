@@ -1,6 +1,6 @@
 # Did Your SimPO Adapter Learn the Rule or Just the Words?
 
-*Written for [Partner]. Published at [Medium — link pending].*
+*Written for Samuel Lachisa. Published at [Medium](https://medium.com/@abay.betty.21/did-your-simpo-adapter-learn-the-rule-or-just-the-words-f0c138fa9487).*
 
 ---
 
@@ -57,4 +57,4 @@ A SimPO adapter that learned the rule will produce the correct preference even w
 
 ---
 
-*Sources in [sources.md](sources.md). Thread: [X — link pending].*
+*Sources in [sources.md](sources.md). Thread: [X](https://x.com/carinobetty22/status/2052381056406343793?s=46).*

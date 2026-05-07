@@ -1,7 +1,7 @@
 # Question Sharpening Notes — Day 3
 
 **Date:** 2026-05-07  
-**Researcher:** Bethelhem (explainer), [Partner] (questioner)  
+**Researcher:** Bethelhem (explainer), Samuel Lachisa (questioner)  
 **Format:** Live discussion
 
 ---

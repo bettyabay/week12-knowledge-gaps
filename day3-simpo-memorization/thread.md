@@ -1,6 +1,6 @@
 # Tweet Thread — Day 3: SimPO Memorization vs. Genuine Learning
 
-*Published at [X — link pending]*
+*Published at [X](https://x.com/carinobetty22/status/2052381056406343793?s=46)*
 
 ---
 
@@ -60,4 +60,4 @@ The fix: augment your 200 training pairs with paraphrased variants of the same p
 
 82% on templates is a start. Paraphrase eval tells you if it's real.
 
-Full writeup: [Medium — link pending]
+Full writeup: https://medium.com/@abay.betty.21/did-your-simpo-adapter-learn-the-rule-or-just-the-words-f0c138fa9487
