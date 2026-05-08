@@ -1,6 +1,6 @@
 # Tweet Thread — Day 4: Composite p-Values and Per-Dimension Significance
 
-*Published at [THREAD_URL]*
+*Published at [X](https://x.com/carinobetty22/status/2052743214210097516?s=46)*
 
 ---
 
@@ -66,4 +66,4 @@ If a client deploys your judge specifically to enforce word count, they're relyi
 
 Rule: report composite significance for overall model quality. Report per-dimension significance (Bonferroni-corrected) for any dimension-specific deployment claim.
 
-Full writeup: [BLOG_URL]
+Full writeup: https://medium.com/@abay.betty.21/does-a-significant-composite-p-value-cover-your-weakest-dimension-28f3f593e893

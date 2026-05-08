@@ -2,7 +2,7 @@
 
 *Written by Bethelhem Abay for Rahel Samson, whose `model_card.md` reports Delta A = +0.332, p=0.003 — a single composite result averaged across 7 rubric dimensions, with per-dimension deltas ranging from +0.09 to +0.31.*
 
-*Published at [BLOG_URL].*
+*Published at [Medium](https://medium.com/@abay.betty.21/does-a-significant-composite-p-value-cover-your-weakest-dimension-28f3f593e893).*
 
 ---
 
@@ -136,4 +136,4 @@ A significant composite p-value means the average improvement across your dimens
 
 ---
 
-*Sources in [sources.md](sources.md). Thread: [THREAD_URL]*
+*Sources in [sources.md](sources.md). Thread: [X](https://x.com/carinobetty22/status/2052743214210097516?s=46)*
